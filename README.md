@@ -4,6 +4,7 @@ This repository contains the code files that we used in our work to construct th
 The environments in this repository:
 1. Autonomous driving simulator
 2. Dynamic treatment regime
+3. Grid world
 
 ## How to run the simulations
 To recreate our simulations firstly clone this git and then run the scripts specified below, each one from its own path.  
